@@ -6,25 +6,25 @@ ChatGPT可写出相似真人的文章，并在许多知识领域给出详细和�
 #### 注册所需准备
 1、准备一个邮箱账号（最好是谷歌邮箱）  
 2、准备一个可以科学上网的代理软件（如果没有这边可以推荐一个免费好用的vpn）  
-3、一个国外手机号
+3、一个国外手机号  
 #### 开始注册
 打开www.ai.com
-如下图提示，这样的话是节点不支持chatgpt，请更换节点并联系管理员修复
+如下图提示，这样的话是节点不支持chatgpt，请更换节点并联系管理员修复  
  ![Image text](https://github.com/serifor/img/blob/main/8.png)
-如下图提示是正常的，按照提示完成注册
+如下图提示是正常的，按照提示完成注册  
  ![Image text](https://github.com/serifor/img/blob/main/9.png)
-点击Sign up 注册，如已注册点击 Log in 登录即可，以下演示注册
-准备一个google邮箱和能接受验证码的国外手机号
+点击Sign up 注册，如已注册点击 Log in 登录即可，以下演示注册  
+准备一个google邮箱和能接受验证码的国外手机号  
 ![Image text](https://github.com/serifor/img/blob/main/10.png)
 
-输入谷歌账号密码
+输入谷歌账号密码  
   ![Image text](https://github.com/serifor/img/blob/main/11.png)
   ![Image text](https://github.com/serifor/img/blob/main/12.png)
-然后填名字和生日
+然后填名字和生日  
    ![Image text](https://github.com/serifor/img/blob/main/13.png)
-输入外国的电话号码，能获取验证码的（中国的不支持）
+输入外国的电话号码，能获取验证码的（中国的不支持）  
    ![Image text](https://github.com/serifor/img/blob/main/14.png)
    ![Image text](https://github.com/serifor/img/blob/main/15.png)
-有时候需要真人验证，按照提示验证即可
+有时候需要真人验证，按照提示验证即可  
     ![Image text](https://github.com/serifor/img/blob/main/16.png)
-然后就注册成功了
+然后就注册成功了  
